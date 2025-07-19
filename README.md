@@ -7,12 +7,12 @@ This project demonstrates a **Monostable Multivibrator** circuit using the popul
 ## 📷 Project Preview
 
 
-![Monostable Output](images/Screenshot_2025-07-19-16-13-01-244.jpeg)  
+![Monostable Output](Images/Screenshot_2025-07-19-16-13-01-244.jpeg)  
 
 
-![Monostable Output](images/Screenshot_2025-07-19-16-12-16-479.jpeg)  
+![Monostable Output](Images/Screenshot_2025-07-19-16-12-16-479.jpeg)  
 
-![Monostable Output](images/Screenshot_2025-07-19-16-11-58-645.jpeg)  
+![Monostable Output](Images/Screenshot_2025-07-19-16-11-58-645.jpeg)  
 
 *Real-life circuit output with LED indication*
 
